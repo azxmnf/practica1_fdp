@@ -1,6 +1,11 @@
-Azul Monjaras
 #include  <stdio.h>
 
-  main{
+main{
+ 
+  /*Sección de variables*/
+
+
+
+  /*Fin de sección de variables*/|
 
 }
